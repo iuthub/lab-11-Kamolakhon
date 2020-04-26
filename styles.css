@@ -103,6 +103,7 @@ button:hover,
 button:active,
 button:focus {
   outline: none;
+  background-color: blue;
 }
 
 :root {
